@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: opensource_mds
+  location_name: opensource_mds
